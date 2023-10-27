@@ -1,0 +1,16 @@
+2023-10-28 03:00:15.702 [main] INFO  org.example.Main - START OP: Add
+2023-10-28 03:00:15.705 [main] INFO  org.example.Main - END OP: Add
+2023-10-28 03:00:15.706 [main] INFO  org.example.Main - START OP: Div
+2023-10-28 03:00:15.706 [main] INFO  org.example.Main - END OP: Div
+2023-10-28 03:00:15.707 [main] INFO  org.example.Main - START OP: Div
+2023-10-28 03:00:15.707 [main] INFO  org.example.Main - END OP: Div
+2023-10-28 03:00:15.708 [main] INFO  org.example.Main - START OP: Sub
+2023-10-28 03:00:15.708 [main] INFO  org.example.Main - END OP: Sub
+2023-10-28 03:00:15.709 [main] INFO  org.example.Main - START OP: Sub
+2023-10-28 03:00:15.709 [main] INFO  org.example.Main - END OP: Sub
+2023-10-28 03:00:15.710 [main] INFO  org.example.Main - START OP: Mul
+2023-10-28 03:00:15.710 [main] INFO  org.example.Main - END OP: Mul
+2023-10-28 03:00:15.712 [main] INFO  org.example.Main - START OP: Mul
+2023-10-28 03:00:15.712 [main] INFO  org.example.Main - END OP: Mul
+2023-10-28 03:00:15.713 [main] INFO  org.example.Main - START OP: Add
+2023-10-28 03:00:15.713 [main] INFO  org.example.Main - END OP: Add
