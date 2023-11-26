@@ -15,7 +15,7 @@ public class Main {
         Scanner myObj = new Scanner(System.in);
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         while(true) {
-            System.out.println("......Welcome to Calculator...trial20231126-20:44");
+            System.out.println("......Welcome to Calculator...trial20231126-20:451");
             System.out.println("Choose your operation");
 
             System.out.println("1. Addition");
